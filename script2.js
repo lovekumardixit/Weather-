@@ -10,7 +10,7 @@ function setBackgroundImage() {
     } else if (hour >= 11 && hour < 18) {
         // Afternoon
         imageUrl = 'url(2.jpg)';
-    } else if (hour >= 18 && hour < 21) {
+    } else if (hour >= 18 && hour < 18) {
         // Evening
         imageUrl = 'url(15.jpg)';
     } else {
